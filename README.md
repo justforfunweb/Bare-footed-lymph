@@ -82,7 +82,7 @@ Right now, you have a fork of the [shubanms/Bare-footed-lymph](https://github.co
 
 # Contributing
 
-Contributions are always welcomed! 
+Contributions are always welcomed! (Give this repo a star ⭐)
 
 
 
