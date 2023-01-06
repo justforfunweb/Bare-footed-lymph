@@ -9,30 +9,42 @@
 # Example 1:
 
 # Input:
+
 # n = 3
+
 # intervals = {
 # {1, 2, 4},
 # {1, 5, 7},
 # {2, 4, 4}
 # }
+
 # Output:
 # 8
+
 # Explanation:
 # One can choose intervals [1, 2, 4] and [2, 4, 4] for a 
 # profit of 8.
+
+
 # Example 2:
 
 # Input:
+
 # n = 3
+
 # intervals = {
 # {1, 4, 4},
 # {2, 3, 7},
 # {2, 3, 4}
 # }
+
 # Output:
 # 7
+
 # Explanation:
 # One can choose interval [2, 3, 7] for a profit of 7.
+
+
 # Your Task:
 
 # You don't need to print or output anything. 
