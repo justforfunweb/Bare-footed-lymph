@@ -78,7 +78,27 @@ Right now, you have a fork of the [shubanms/Bare-footed-lymph](https://github.co
 
 7. Press Enter. Your local clone will be created.
 
-
+# Questions and answers
+DATE  | Question  |  Answer
+------------- | -------------  |  -------------  |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
+Content Cell  | Content Cell   |  Content Cell   |
 
 # Contributing
 
