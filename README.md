@@ -99,6 +99,12 @@ DATE  | Question  |  Answer
 16/01/2023  | [Next greater element](https://practice.geeksforgeeks.org/problems/214734e358208c1c6811d9b237b518f6b3c3c094/1)   |  [Answer]()   |
 17/01/2023  | [Find the maximum GCD of the siblings of a binary Tree](https://practice.geeksforgeeks.org/problems/6eb51dc638ee1b936f38d1ab4b2f7062d4425463/1)   |  [Answer]()   |
 18/01/2023  | [Find the first node of loop in linked list](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)   |  [Answer](https://github.com/shubanms/Bare-footed-lymph/blob/main/FindingTheFirstNodeInALinkedList.py)   |
+19/01/2023  |  [Question]()  |  [Answer]()
+20/01/2023  |  [Question]()  |  [Answer]()
+21/01/2023  |  [Question]()  |  [Answer]()
+22/01/2023  |  [Question]()  |  [Answer]()
+23/01/2023  |  [Question]()  |  [Answer]()
+24/01/2023  |  [Question]()  |  [Answer]()
 
 # Contributing
 
