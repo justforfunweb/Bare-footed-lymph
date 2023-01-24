@@ -105,6 +105,7 @@ DATE  | Question  |  Answer
 22/01/2023  |  [Question]()  |  [Answer]()
 23/01/2023  |  [Question]()  |  [Answer]()
 24/01/2023  |  [Question]()  |  [Answer]()
+25/01/2023  |  [Question]()  |  [Answer]()
 
 # Contributing
 
